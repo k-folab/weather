@@ -1,0 +1,107 @@
+.right {
+  background-color: #222831;
+  width: 900px;
+  height: 670px;
+  margin-top: 230px;
+  margin-left: -150px;
+  border-radius: 25px;
+  z-index: -1;
+}
+.paragraph_1 {
+  display: flex;
+  padding-top: 80px;
+  padding-left: 300px;
+  gap: 200px;
+  color: #ffff;
+  font-size: 28px;
+  font-weight: 700;
+}
+.paragraph_2 {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 300px;
+  gap: 260px;
+  color: #ffff;
+  font-size: 28px;
+  font-weight: 700;
+}
+.paragraph_3 {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 300px;
+  gap: 280px;
+  color: #ffff;
+  font-size: 28px;
+  font-weight: 700;
+}
+.boxes {
+  padding-top: 70px;
+  padding-left: 300px;
+  display: flex;
+}
+.first_box {
+  background-color: #ffff;
+  width: 110px;
+  height: 180px;
+  border-radius: 10px;
+}
+
+.second_box {
+  background-color: #222831;
+  color: #ffff;
+  width: 110px;
+  height: 180px;
+  border-radius: 10px;
+}
+
+.third_box {
+  background-color: #222831;
+  color: #ffff;
+  width: 110px;
+  height: 180px;
+  border-radius: 10px;
+}
+
+.fourth_box {
+  background-color: #222831;
+  color: #ffff;
+  width: 110px;
+  height: 180px;
+  border-radius: 10px;
+}
+
+.logo {
+  padding-top: 20px;
+  padding-left: 25px;
+}
+.day_2 {
+  padding-top: 20px;
+  padding-left: 35px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.deg {
+  padding-top: 20px;
+  padding-left: 30px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.change_loc-box {
+  background: linear-gradient(to bottom right, #88ebef, #535be6);
+  margin-top: 70px;
+  margin-left: 300px;
+  width: 400px;
+  height: 53px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  color: #ffff;
+}
+
+.word {
+  font-size: 20px;
+  font-weight: 600;
+}
