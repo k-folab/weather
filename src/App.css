@@ -6,4 +6,9 @@ body {
 
 .main_div {
   display: flex;
+  position: relative;
+}
+
+.section__1 {
+  z-index: 2;
 }

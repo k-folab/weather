@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import "./styles/leftsection.css";
 import "./styles/rightsection.css";
@@ -8,10 +7,10 @@ import Rightsection from "./components/Rightsection";
 function App() {
   return (
     <div className="main_div">
-      <div>
+      <div className="section section__1">
         <Leftsection />
       </div>
-      <div>
+      <div className="section section__2">
         <Rightsection />
       </div>
     </div>
